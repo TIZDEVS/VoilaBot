@@ -1,4 +1,4 @@
-require('dotenv').config();
+require('dotenv').config({path: require('path').join(__dirname, '.env')});
 var TelegramBot = require('node-telegram-bot-api');
 var web3 = require('@solana/web3.js');
 var fs = require('fs');
