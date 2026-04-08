@@ -1,0 +1,6 @@
+node_modules/
+.env
+data.json
+bot.pid
+sig_locks/
+*.log
