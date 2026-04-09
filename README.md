@@ -1,10 +1,13 @@
 <p align="center">
   <img src="logo.jpg" alt="VoilaBot Logo" width="160" />
-</p><h1 align="center">VoilaBot</h1>
-<p align="center"><b>Real-time claim intelligence + auto-execution for Pump.fun — directly in Telegram</b></p><p align="center">
+</p><h1 align="center">VoilaBot</h1><p align="center"><b>Real-time claim intelligence + auto-execution for Pump.fun — directly in Telegram</b></p><p align="center">
   <img src="https://img.shields.io/badge/platform-Telegram-2CA5E0?logo=telegram" />
   <img src="https://img.shields.io/badge/chain-Solana-9945FF?logo=solana" />
   <img src="https://img.shields.io/badge/built_with-Node.js-339933?logo=nodedotjs" />
+</p><p align="center">
+  <a href="https://t.me/Voilaclaimbot">
+    <b>🚀 Try VoilaBot on Telegram</b>
+  </a>
 </p>---
 
 ⚡ What is VoilaBot?
